@@ -14,11 +14,17 @@ Update a car in the shop -> PUT /cars/:id Get a car in the shop -> GET /cars/:id
 
 Steps to Run the application:
 
-Have docker installed in the machine
-Clone the project
-Open terminal with the downloaded project location
-Type command - docker-compose up -d (note: by default docker compose is installed in mac and windows while installing docker. If you are running linux, install docker compose separate.)
+1. Have docker installed in the machine
+
+2. Clone the project
+   
+3. Open terminal with the downloaded project location
+
+4. Type command - docker-compose up -d (note: by default docker compose is installed in mac and windows while installing docker. If you are running linux, install docker compose separate.)
 Now the project is deployed. we can test the api's and the application
-Go to the browser and access the URL http://localhost:3000/ to access the web React application. 
-The api's are accessible at the url http:/localhost:8000/
-Please refer to the API's for the automobile project https://documenter.getpostman.com/view/5309064/2s93sjV9Fj
+
+5. Go to the browser and access the URL http://localhost:3000/ to access the web React application.
+   
+6. The api's are accessible at the url http:/localhost:8000/
+   
+7. Please refer to the API's for the automobile project https://documenter.getpostman.com/view/5309064/2s93sjV9Fj
