@@ -25,6 +25,6 @@ Now the project is deployed. we can test the api's and the application
 
 5. Go to the browser and access the URL http://localhost:3000/ to access the web React application.
    
-6. The api's are accessible at the url http:/localhost:8000/
+6. The api's are accessible at the url http://localhost:8000/
    
 7. Please refer to the API's for the automobile project https://documenter.getpostman.com/view/5309064/2s93sjV9Fj
